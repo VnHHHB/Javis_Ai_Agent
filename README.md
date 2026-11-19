@@ -1,7 +1,7 @@
 # Jarvis MVP 
 
 Bản chạy được ngay, không cần API key, không cần cài thêm gì ngoài `requests`.
-Profile đã nạp sẵn chủ đề của bạn: pin tandem/perovskite, SCAPS/mô phỏng,
+Profile phù hợp chủ đề : pin tandem/perovskite, SCAPS/mô phỏng,
 MoS2, ML cho vật liệu/surrogate, công nghệ chung.
 
 ## Chạy trong 2 phút
@@ -21,7 +21,7 @@ pip install streamlit
 streamlit run app.py
 ```
 
-## Tuỳ chỉnh — đây là phần “Javis hiểu bạn”
+## Tuỳ chỉnh 
 
 - Sửa `profile.json`: thêm/bớt keyword, tăng `weight` topic nào bạn thích,
   thêm từ vào `blocked_keywords` để loại hẳn.
