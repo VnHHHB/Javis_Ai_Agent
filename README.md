@@ -1,4 +1,4 @@
-# Jarvis MVP — Feed cá nhân hoá cho PHAM
+# Jarvis MVP 
 
 Bản chạy được ngay, không cần API key, không cần cài thêm gì ngoài `requests`.
 Profile đã nạp sẵn chủ đề của bạn: pin tandem/perovskite, SCAPS/mô phỏng,
