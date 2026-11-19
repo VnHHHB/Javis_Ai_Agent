@@ -1,0 +1,8 @@
+# Du lieu sinh ra khi chay, khong day len GitHub (chay fetch la co lai)
+data/
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+*.log

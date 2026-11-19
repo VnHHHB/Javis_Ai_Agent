@@ -1,0 +1,6 @@
+# MVP chi dung thu vien chuan + requests (da co san tren hau het may Python).
+# Khong bat buoc feedparser / streamlit.
+requests>=2.31
+# Tuy chon, neu muon dashboard dep hon:
+# streamlit>=1.35
+# feedparser>=6.0
